@@ -1,0 +1,6 @@
+# Pi-hole blocklist (one domain per line)
+# Pi-hole blocks by domain only, so paths and query strings cannot be listed.
+
+# Video ads on uakinogo.is
+# source: https://v.quickcore.fun/media/9/2/v92190719166599_163_v7.mp4
+v.quickcore.fun
